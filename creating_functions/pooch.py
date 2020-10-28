@@ -1,4 +1,4 @@
-# import module
+# import module with functions
 from dog import bark, lick, nap
 
 # call each function without an arguement 
